@@ -1,0 +1,78 @@
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\bin\Debug\TieuLuan.exe.config
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\bin\Debug\TieuLuan.exe
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\bin\Debug\TieuLuan.pdb
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csprojAssemblyReference.cache
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.Properties.Resources.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.GenerateResource.cache
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.CoreCompileInputs.cache
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.exe
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.pdb
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.NhapSanPham.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThemLoai.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.TrangChu.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThongKe.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThongKe_2.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\bin\Debug\TieuLuan.exe.config
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\bin\Debug\TieuLuan.exe
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\bin\Debug\TieuLuan.pdb
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.AssemblyReference.cache
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.SuggestedBindingRedirects.cache
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.NhapSanPham.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.Properties.Resources.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThemLoai.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThongKe.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThongKe_2.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.TrangChu.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.GenerateResource.cache
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.CoreCompileInputs.cache
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.exe
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.pdb
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.SanPham.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ChiTietHD.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.DangNhap.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.TaoDonHang.resources
+C:\Users\DNT\Downloads\TieuLuan\TieuLuan\obj\Debug\TieuLuan.DsUser.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\bin\Debug\TieuLuan.exe.config
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\bin\Debug\TieuLuan.exe
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\bin\Debug\TieuLuan.pdb
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ChiTietHD.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.DangNhap.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.DsUser.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.NhapSanPham.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.SanPham.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.TaoDonHang.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThemLoai.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThongKe.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThongKe_2.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.TrangChu.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.exe
+C:\Users\Admin\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\TieuLuan\TieuLuan\obj\Debug\TieuLuan.pdb
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ChiTietHD.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.DangNhap.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.DsUser.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.SanPham.resources
+D:\Học Tập\Công Nghệ .NET\Tiểu Luận\Code\TieuLuan\TieuLuan\obj\Debug\TieuLuan.TaoDonHang.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\bin\Debug\TieuLuan.exe.config
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\bin\Debug\TieuLuan.exe
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\bin\Debug\TieuLuan.pdb
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ChiTietHD.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.DangNhap.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.DsUser.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.NhapSanPham.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.Properties.Resources.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.SanPham.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.TaoDonHang.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThemLoai.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThongKe.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.ThongKe_2.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.TrangChu.resources
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.exe
+C:\Users\Admin\Desktop\Thu 7\TieuLuan\TieuLuan\TieuLuan\obj\Debug\TieuLuan.pdb
